@@ -45,7 +45,8 @@
   "dependencies": {
     "electron": "^4.0.0",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "zoho": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
