@@ -6,6 +6,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>Hello, Electron!</h1>
+        <p>cool</p>
 
         <p>I hope you enjoy using basic-electron-react-boilerplate to start your dev off right!</p>
       </div>
